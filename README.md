@@ -36,9 +36,19 @@
 ![Example Image](images/lavka.png)
 Наряд:
 ![Example Image](images/naryad.png)
-### Недревесные явления
+### Недревесные явления (эллипсис)
+Пропуск слова, понятного из контекста (другой человек):
+Замечу, что "другой" связано с "заглушит" как именное подлежащее.
+![Example Image](images/ellipsis_1.png)
+Опущение подлежащего-местоимения (в обоих случаях - я):
+![Example Image](images/ellipsis_2.png)
+![Example Image](images/ellipsis_3.png)
 
-### Референциальные цепочки в пределах фрагмента текста
 
+### Референциальные цепочки
+В пределах фрагмента текста:
+![Example Image](images/ref_text.png)
+Также нашла в пределах предложения:
+![Example Image](images/ref_sentence.png)
 ## Вывод
 
